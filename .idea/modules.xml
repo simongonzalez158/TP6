@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArbolBinario/ArbolBinario.iml" filepath="$PROJECT_DIR$/ArbolBinario/ArbolBinario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompaniaEnvios/CompaniaEnvios.iml" filepath="$PROJECT_DIR$/CompaniaEnvios/CompaniaEnvios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CongresoAritmetica/CongresoAritmetica.iml" filepath="$PROJECT_DIR$/CongresoAritmetica/CongresoAritmetica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sistema de Archivos/Sistema de Archivos.iml" filepath="$PROJECT_DIR$/Sistema de Archivos/Sistema de Archivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP6.iml" filepath="$PROJECT_DIR$/TP6.iml" />
+    </modules>
+  </component>
+</project>
